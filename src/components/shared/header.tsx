@@ -3,12 +3,12 @@
 
 import Link from 'next/link';
 import { usePathname } from 'next/navigation';
-import { Menu, Mountain } from 'lucide-react';
+import { Menu } from 'lucide-react';
 
 import { cn } from '@/lib/utils';
 import { Button } from '@/components/ui/button';
 import { Sheet, SheetContent, SheetTrigger } from '@/components/ui/sheet';
-import { SponsorLinkLogo } from '@/components/icons';
+import { TapTapImpactLogo } from '@/components/icons';
 
 const navLinks = [
   { href: '/', label: 'Home' },
@@ -27,8 +27,8 @@ export function Header() {
       <div className="container flex h-14 max-w-screen-2xl items-center">
         <div className="mr-4 hidden md:flex">
           <Link href="/" className="mr-6 flex items-center space-x-2">
-            <SponsorLinkLogo className="h-6 w-6" />
-            <span className="hidden font-bold sm:inline-block">SponsorLink Cameroon</span>
+            <TapTapImpactLogo className="h-6 w-6" />
+            <span className="hidden font-bold sm:inline-block">TapTapImpact</span>
           </Link>
           <nav className="flex items-center gap-6 text-sm">
             {navLinks.map(({ href, label }) => (
@@ -59,8 +59,8 @@ export function Header() {
           </SheetTrigger>
           <SheetContent side="left">
             <Link href="/" className="flex items-center">
-                <SponsorLinkLogo className="h-6 w-6 mr-2" />
-                <span className="font-bold">SponsorLink Cameroon</span>
+                <TapTapImpactLogo className="h-6 w-6 mr-2" />
+                <span className="font-bold">TapTapImpact</span>
             </Link>
             <div className="grid gap-6 text-lg font-medium mt-8">
               {navLinks.map(({ href, label }) => (
