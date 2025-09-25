@@ -6,7 +6,7 @@ import { Footer } from '@/components/shared/footer';
 import { Toaster } from "@/components/ui/toaster"
 
 export const metadata: Metadata = {
-  title: 'TapTapImpact',
+  title: 'Taptap Impact',
   description: 'Connecting Cameroonian entrepreneurs with diaspora sponsors — Powered by TapTapSend.',
 };
 

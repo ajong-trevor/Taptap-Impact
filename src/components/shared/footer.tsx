@@ -8,7 +8,7 @@ export function Footer() {
         <div className="flex flex-col gap-2">
             <Link href="/" className="flex items-center space-x-2">
                 <TapTapImpactLogo className="h-6 w-6" />
-                <span className="font-bold">TapTapImpact</span>
+                <span className="font-bold">Taptap Impact</span>
             </Link>
           <p className="text-sm text-muted-foreground">
             Connecting Cameroonian entrepreneurs with diaspora sponsors.
@@ -36,7 +36,7 @@ export function Footer() {
       </div>
       <div className="border-t">
         <div className="container flex items-center justify-between px-4 py-4 text-sm text-muted-foreground md:px-6">
-          <p>© {new Date().getFullYear()} TapTapImpact. All rights reserved.</p>
+          <p>© {new Date().getFullYear()} Taptap Impact. All rights reserved.</p>
         </div>
       </div>
     </footer>

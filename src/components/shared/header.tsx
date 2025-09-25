@@ -28,7 +28,7 @@ export function Header() {
         <div className="mr-4 hidden md:flex">
           <Link href="/" className="mr-6 flex items-center space-x-2">
             <TapTapImpactLogo className="h-6 w-6" />
-            <span className="hidden font-bold sm:inline-block">TapTapImpact</span>
+            <span className="hidden font-bold sm:inline-block">Taptap Impact</span>
           </Link>
           <nav className="flex items-center gap-6 text-sm">
             {navLinks.map(({ href, label }) => (
@@ -60,7 +60,7 @@ export function Header() {
           <SheetContent side="left">
             <Link href="/" className="flex items-center">
                 <TapTapImpactLogo className="h-6 w-6 mr-2" />
-                <span className="font-bold">TapTapImpact</span>
+                <span className="font-bold">Taptap Impact</span>
             </Link>
             <div className="grid gap-6 text-lg font-medium mt-8">
               {navLinks.map(({ href, label }) => (
