@@ -1,3 +1,70 @@
 {
-  "placeholderImages": []
+  "placeholderImages": [
+    {
+      "id": "hero-cameroon",
+      "description": "A vibrant market scene in Cameroon.",
+      "imageUrl": "https://images.unsplash.com/photo-1723158694712-d528f378577a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxjYW1lcm9vbiUyMG1hcmtldHxlbnwwfHx8fDE3NTg4MDY1NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cameroon market"
+    },
+    {
+      "id": "project-tech",
+      "description": "An entrepreneur working on a laptop in a modern co-working space.",
+      "imageUrl": "https://images.unsplash.com/photo-1746712241470-9b91e5c073e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxlbnRyZXByZW5ldXIlMjBsYXB0b3B8ZW58MHx8fHwxNzU4ODA2NTU0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "entrepreneur laptop"
+    },
+    {
+      "id": "project-agriculture",
+      "description": "A farmer standing in a lush green coffee plantation.",
+      "imageUrl": "https://images.unsplash.com/photo-1755365134255-df5efd13a4cb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2FtZXJvb24lMjBmYXJtfGVufDB8fHx8MTc1ODc0MjU4NXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "cameroon farm"
+    },
+    {
+      "id": "project-art",
+      "description": "An artist painting on a canvas in a colorful studio.",
+      "imageUrl": "https://images.unsplash.com/photo-1613292136906-32a449d4ec7b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhcnRpc3QlMjBwYWludGluZ3xlbnwwfHx8fDE3NTg4MDUzNzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "artist painting"
+    },
+    {
+      "id": "project-fashion",
+      "description": "A tailor working with vibrant African print fabrics.",
+      "imageUrl": "https://images.unsplash.com/photo-1464699908537-0954e50791ee?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmYXNoaW9uJTIwZGVzaWdufGVufDB8fHx8MTc1ODc4NzM3OXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fashion design"
+    },
+    {
+      "id": "project-food",
+      "description": "A chef preparing a traditional Cameroonian dish.",
+      "imageUrl": "https://picsum.photos/seed/106/600/400",
+      "imageHint": "food preparation"
+    },
+    {
+      "id": "project-education",
+      "description": "Children in a classroom looking at a book.",
+      "imageUrl": "https://images.unsplash.com/photo-1565665643598-b888bfb550c0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y2hpbGRyZW4lMjBjbGFzc3Jvb218ZW58MHx8fHwxNzU4NzQyOTQ0fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "children classroom"
+    },
+    {
+      "id": "impact-story-1",
+      "description": "A smiling woman standing in front of her new shop.",
+      "imageUrl": "https://images.unsplash.com/photo-1753161029353-f6bb0ff2ad3c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx3b21hbiUyMHNob3AlMjBvd25lcnxlbnwwfHx8fDE3NTg4MDY1NTV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman shop owner"
+    },
+    {
+      "id": "impact-story-2",
+      "description": "A team of young developers collaborating around a computer.",
+      "imageUrl": "https://images.unsplash.com/photo-1600880292203-757bb62b4baf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0ZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3NTg3OTQ0Mzd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "impact-story-3",
+      "description": "Close up of fresh produce at a local market stall.",
+      "imageUrl": "https://images.unsplash.com/photo-1471193945509-9ad0617afabf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxmcmVzaCUyMHByb2R1Y2V8ZW58MHx8fHwxNzU4NzA1NTg2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fresh produce"
+    },
+    {
+      "id": "about-us",
+      "description": "A diverse group of people collaborating on a project.",
+      "imageUrl": "https://images.unsplash.com/photo-1749006814010-4359b1a0ae38?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWFtd29yayUyMGNvbW11bml0eXxlbnwwfHx8fDE3NTg3Mzk3NTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "teamwork community"
+    }
+  ]
 }
