@@ -16,7 +16,6 @@ const navLinks = [
   { href: '/diaspora', label: 'Diaspora' },
   { href: '/impact', label: 'Impact' },
   { href: '/growth', label: 'Growth' },
-  { href: '/recommendations', label: 'AI Recommendations' },
   { href: '/about', label: 'About' },
 ];
 
